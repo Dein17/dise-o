@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+*{font-family: 'Fira Sans', sans-serif;}
+
+
 header{background-color: rgb(93, 64, 196);}
 .nav .nav-item .nav-link {color: rgb(0, 0, 0);}
 .nav{margin-top: 10px;}
@@ -5,9 +9,14 @@ h1{margin-left: 40px;}
 #banner .imgbanner{margin-left: 400px;}
 #tarjetas .card2{ margin-left: 23%;
 margin-top: -25.5%;}
-#tarjetas .card3{ margin-left: 46%;
-margin-top: -26%;}
-#tarjetas .card4{ margin-left: 128%;
-margin-top: -140%;}
+#tarjetas .card3{ margin-left: 120%;
+margin-top: -131%;}
+#tarjetas .card4{ margin-left: 122%;
+margin-top: -131%;}
 #ubicacion .mapa{margin-left: 25%;}
 #ubicacion{ background-color: aquamarine;}
+ /* estilos
+#tarjetas{display: flex;
+    flex-wrap: wrap;
+gap: 10px;}*/
+footer .redes
